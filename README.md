@@ -1,4 +1,4 @@
-![banner]({{site.url}}/src/img/GithubBanner.png)
+[![Header](https://github.com/Jeank98/Jeank98/tree/main/src/img/GithubBanner.png "Header")]
 ### 👋🏽 Hi, I’m Jean
 - 📊💻 I’m interested in Data Science and Web Development.
 - 🌱 I’m currently learning Data Science skills
