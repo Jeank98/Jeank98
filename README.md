@@ -1,4 +1,4 @@
-
+![banner]({{site.url}}/src/img/GithubBanner.jpg)
 ### 👋🏽 Hi, I’m Jean
 - 📊💻 I’m interested in Data Science and Web Development.
 - 🌱 I’m currently learning Data Science skills
