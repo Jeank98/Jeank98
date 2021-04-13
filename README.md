@@ -1,6 +1,7 @@
 <!-- ![](https://github.com/Jeank98/Jeank98/blob/main/src/img/banner.png?raw=true) -->
-<link rel="stylesheet" href="https://github.com/Jeank98/Jeank98/blob/main/src/css/main.css" />
-<img src="https://github.com/Jeank98/Jeank98/blob/main/src/img/banner.png?raw=true" alt="banner" class="center">
+<p align="center">
+  <img src="https://github.com/Jeank98/Jeank98/blob/main/src/img/banner.png?raw=true" alt="banner">
+</p>
 
 ### 👋🏽 Hi, I’m Jean
 📊💻 I’m an Industrial Engineer interested in Data Science and Web 
