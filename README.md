@@ -1,4 +1,3 @@
-![banner](https://github.com/Jeank98/Jeank98/tree/main/src/img/GithubBanner.jpg)
 
 ### 👋🏽 Hi, I’m Jean
 - 📊💻 I’m interested in Data Science and Web Development.
