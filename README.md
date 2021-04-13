@@ -1,4 +1,6 @@
-![](https://github.com/Jeank98/Jeank98/blob/main/src/img/banner.png?raw=true)
+<!-- ![](https://github.com/Jeank98/Jeank98/blob/main/src/img/banner.png?raw=true) -->
+<link rel="stylesheet" href="./src/css/main.css" />
+<img src="https://github.com/Jeank98/Jeank98/blob/main/src/img/banner.png?raw=true" alt="banner" class="center">
 
 ### 👋🏽 Hi, I’m Jean
 📊💻 I’m an Industrial Engineer interested in Data Science and Web 
