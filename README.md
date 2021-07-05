@@ -8,7 +8,18 @@
 - 🛠 I’m currently learning Data Science skills
 - 🔎 I’m looking to collaborate on different projects that help me to grow up in this fantastic industry!
 
-Skills: 🐍Python | <img src="https://img.icons8.com/officel/16/000000/database.png"/> SQL | <img src="https://img.icons8.com/color/24/000000/bootstrap.png"/>  Bootstrap | <img src="https://img.icons8.com/color/24/000000/html-5--v1.png"/>HTML
+### Skills
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### Technologies
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=ScikitLearn)
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 
 
 
