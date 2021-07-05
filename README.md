@@ -4,7 +4,7 @@
 </p>
 
 ### 👋🏽 Hi, I’m Jean
-- 📊💻 I’m an Industrial Engineer interested in Data Science and Web Development
+- 📊💻 I’m an Industrial Engineer interested in Data Science
 - 🛠 I’m currently learning Data Science skills
 - 🔎 I’m looking to collaborate on different projects that help me to grow up in this fantastic industry!
 
