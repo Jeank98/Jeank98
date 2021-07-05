@@ -12,9 +12,9 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 
 ### Technologies
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=ScikitLearn)
